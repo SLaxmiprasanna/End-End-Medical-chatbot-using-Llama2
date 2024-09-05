@@ -16,7 +16,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/entbappy/End-to-end-Medical-Chatbot-using-Llama2.git
+   git clone https://github.com/SLaxmiprasanna/End-End-Medical-chatbot-using-Llama2.git
    cd End-to-end-Medical-Chatbot-using-Llama2
    ```
 
